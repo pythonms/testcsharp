@@ -28,7 +28,7 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <TextBlock Height="56" HorizontalAlignment="Left" Margin="58,55,0,0" Name="textBlock1" Text="Hello Git" VerticalAlignment="Top" Width="353" FontSize="40" />
+            <TextBlock Height="56" HorizontalAlignment="Left" Margin="58,55,0,0" Name="textBlock1" Text="Hello Git 2" VerticalAlignment="Top" Width="353" FontSize="40" />
         </Grid>
     </Grid>
  
